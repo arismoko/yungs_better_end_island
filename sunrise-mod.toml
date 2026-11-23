@@ -1,7 +1,7 @@
 # YUNG's Better End Island for Sunrise: content only (data/ and assets/), no code.
 id = "betterendisland"
 name = "YUNG's Better End Island"
-version = "0.3.0"
+version = "0.3.1"
 description = "The structure templates of YUNG's redesigned End island arena, for placing in the End."
 authors = ["YUNGNICKYOUNG", "Acarii"]
 license = "LGPL-3.0-only"
