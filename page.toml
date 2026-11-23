@@ -16,5 +16,5 @@ A port of YUNG's Better End Island by YUNGNICKYOUNG and Acarii, under the LGPL v
 categories = ["worldgen", "decoration"]
 
 [[screenshots]]
-path = "page/world.png"
-caption = "TODO"
+path = "page/tower-and-pillars.png"
+caption = "The arena tower and two guarded pillars placed in the End."
