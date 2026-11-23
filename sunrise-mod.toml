@@ -1,0 +1,10 @@
+# YUNG's Better End Island for Sunrise: content only (data/ and assets/), no code.
+id = "betterendisland"
+name = "YUNG's Better End Island"
+version = "0.3.0"
+description = "The structure templates of YUNG's redesigned End island arena, for placing in the End."
+authors = ["YUNGNICKYOUNG", "Acarii"]
+license = "LGPL-3.0-only"
+credits = "Ported to Minecraft 26.3 by AdLf0208, and to Sunrise by arismoko."
+homepage = "https://github.com/arismoko/yungs_better_end_island"
+side = "both"
